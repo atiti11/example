@@ -2,7 +2,7 @@ Níže jsou popsané kroky pro jednotlivé části webové stránky, které bude
 
 ## 1. Nastavení základních stylů pro `body`
 
-- **Nastavte písmo stránky:** na "Montserrat", pokud se nanačte, pak "sans-serif"
+- **Nastavte písmo stránky:** na "Montserrat", pokud se nenačte, pak "sans-serif"
 
 - **Nastavte barvu textu:** na hodnotu `#333`
 
